@@ -12,6 +12,7 @@
     "cfpm": "./index.js"
   },
   "dependencies": {
+    "archiver": "^0.21.0",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.9.0",
