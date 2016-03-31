@@ -41,14 +41,14 @@ cfpm takes five commands:
 
 #### Example
 
-- 1. `cfpm init`
-  - `Project Name: my-project`
-  - `Version: (0.1.0) 1.0.0`
-  - `Description: A sample description.`
-- 2. `cfpm token`
-  - `username: myname`
-  - `password: mypassword`
-- 3. `cfpm publish`
-- 4. `cfpm fetch -p my-project`
-- 5. `cfpm update -v 1.1.0`
-- 6. `cfpm fetch -p my-project -v 1.0.0`
+1. `cfpm init`
+- `Project Name: my-project`
+- `Version: (0.1.0) 1.0.0`
+- `Description: A sample description.`
+2. `cfpm token`
+- `username: myname`
+- `password: mypassword`
+3. `cfpm publish`
+4. `cfpm fetch -p my-project`
+5. `cfpm update -v 1.1.0`
+6. `cfpm fetch -p my-project -v 1.0.0`
