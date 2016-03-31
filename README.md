@@ -43,16 +43,20 @@ cfpm takes five commands:
 Execute in the project's root directory:
 
 1. `cfpm init`
-⋅⋅⋅`Project Name: my-project`
-⋅⋅⋅`Version: (0.1.0) 1.0.0`
-⋅⋅⋅`Description: A sample description.`
+```
+Project Name: my-project`
+Version: (0.1.0) 1.0.0`
+Description: A sample description.`
+```
 2. `cfpm token`
-⋅⋅⋅`username: myname`
-⋅⋅⋅`password: mypassword`
+```
+username: myname
+password: mypassword
+```
 3. `cfpm publish`
 4. `cfpm update -v 1.1.0`
 
 Execute in the folder where the project will be downloaded:
 
-5. `cfpm fetch -p my-project`
-6. `cfpm fetch -p my-project -v 1.0.0`
+1. `cfpm fetch -p my-project`
+2. `cfpm fetch -p my-project -v 1.0.0`
