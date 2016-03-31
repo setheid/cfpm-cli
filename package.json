@@ -1,6 +1,6 @@
 {
   "name": "cfpm-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.9.0",
-    "progress": "^1.1.8",
-    "superagent": "^1.8.3"
+    "superagent": "^1.8.3",
+    "unzip2": "^0.2.5"
   }
 }
