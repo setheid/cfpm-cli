@@ -1,6 +1,6 @@
 # cfpm-cli
 
-> Command Line Interface for CF Package Manager
+Command Line Interface for CF Package Manager
 
 #### Features
 
@@ -16,8 +16,7 @@ This is the cli for [CF Package Manager](https://www.npmjs.com/package/cfpm). In
 
 #### Commands
 
-cfpm takes five commands:
-`init`, `token`, `publish`, `update`, and `fetch`.
+cfpm takes five commands: `init`, `token`, `publish`, `update`, and `fetch`.
 
 ##### Init
 
@@ -44,9 +43,9 @@ Execute in the project's root directory:
 
 * `cfpm init`
 ```
-Project Name: my-project`
-Version: (0.1.0) 1.0.0`
-Description: A sample description.`
+Project Name: my-project
+Version: (0.1.0) 1.0.0
+Description: A sample description.
 ```
 * `cfpm token`
 ```
